@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648.47 72.844" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648.47 120.844" preserveAspectRatio="xMidYMid meet">
   <!-- Overlay text (placed as selectable text because original had outlines) -->
   <style>
     /* Use generic - keep exact color from original and use a Swiss-like sans stack */
@@ -11,6 +11,6 @@
     </filter>
   </defs>
 
-  <text x="50%" y="40%" text-anchor="middle" dominant-baseline="middle" class="vs-text" filter="url(#text-shadow)" fill="#ffffff" font-size="20.39632px">VERY-</text>
-  <text x="50%" y="72%" text-anchor="middle" dominant-baseline="middle" class="vs-text" filter="url(#text-shadow)" fill="#ffffff" font-size="20.39632px">SWISSY</text>
+  <text x="50%" y="30%" text-anchor="middle" dominant-baseline="middle" class="vs-text" filter="url(#text-shadow)" fill="#ffffff" font-size="80px">VERY-</text>
+  <text x="50%" y="82%" text-anchor="middle" dominant-baseline="middle" class="vs-text" filter="url(#text-shadow)" fill="#ffffff" font-size="80px">SWISSY</text>
 </svg>
